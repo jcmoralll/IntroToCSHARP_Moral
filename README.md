@@ -8,9 +8,10 @@ System Description
 It also collects user input such as driver name, weekly fuel budget, total distance traveled, and daily fuel expenses which displays their performance thru audit report and summary from the system.
 
 The system then calculates:
-Total fuel spent
-Average daily fuel expense
-Fuel efficiency (km per fuel cost)
-Efficiency rating
-Budget status (Under budget or not)
+
+- Total fuel spent
+- Average daily fuel expense
+- Fuel efficiency (km per fuel cost)
+- Efficiency rating
+- Budget status (Under budget or not)
 
