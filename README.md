@@ -1,5 +1,7 @@
 Fuel Performance & Weekly Audit System
-by: Justine Carlo R. Moral
+by:
+
+Justine Carlo R. Moral
 BSIT 3.2
 
 System Description
@@ -7,7 +9,7 @@ System Description
 - This system is developed using C# that helps to track and analyze the driver’s weekly fuel expenses and performance.
 It also collects user input such as driver name, weekly fuel budget, total distance traveled, and daily fuel expenses which displays their performance thru audit report and summary from the system.
 
-The system then calculates:
+The Fuel Performance & Weekly Audit System calculates the following below:
 
 - Total fuel spent
 - Average daily fuel expense
