@@ -1,6 +1,6 @@
-﻿/*
+/*
 =========================================================
-Fuel Efficiency and Expense Monitoring System
+Fuel Tracking Performance and Expense Monitoring System
 Justine Carlo R. Moral
 BSIT 3.2
 
